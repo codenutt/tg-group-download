@@ -1,0 +1,4 @@
+.env
+.venv
+tg-group-download.session*
+*.csv
